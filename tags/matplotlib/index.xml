@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matplotlib on R ∪ Python</title>
+    <link>/tags/matplotlib/</link>
+    <description>Recent content in matplotlib on R ∪ Python</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking Installation</title>
+      <link>/post/2022-02-23-checking-installation/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-02-23-checking-installation/</guid>
+      <description>This post will check the package installation and integration of my site with R and Python. Verification of these steps is necessary to ensure that everything is installed properly.
+Check the R library installationFirst, load the library ggplot from the tidyverse.
+library(ggplot2)Next, plot a sine wave and label the axes.
+# define the range of the angle to be zero to 2*pitheta &amp;lt;- seq( 0, 2*pi, by = 2*pi/(100 - 1 ) )# make a data frame that contains both angle and the sine of the angledf &amp;lt;- data.</description>
+    </item>
+    
+  </channel>
+</rss>
